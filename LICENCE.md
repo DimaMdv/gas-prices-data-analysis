@@ -1,0 +1,1 @@
+Data was created EIA (www.eia.gov) and is U.S. government publication. U.S. government publications are in the public domain and are not subject to copyright protection (See details at www.eia.gov/about/copyrights_reuse.php). Inherently, any work done at that project and is free to use with the same copyright and reuse guidelines as EIA (www.eia.gov/about/copyrights_reuse.php).
